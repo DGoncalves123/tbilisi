@@ -743,7 +743,7 @@
     },
     {
       "id": "t42",
-      "caption": "A display of multiple copies of George Orwell's *1984*. The covers feature the iconic eye motif. Its prominent placement is notable given the current political context of the \"foreign agents\" law and the protest movement, which frequently references Orwellian themes of surveillance and authoritarianism. more on orwell as a counterinsurgency british spy and usage of 1984 as propaganda to hide the real world",
+      "caption": "A display of multiple copies of George Orwell's *1984*. The covers feature the iconic eye motif. Its prominent placement is notable given the current political context of the \"foreign agents\" law and the protest movement, which frequently references Orwellian themes of surveillance and authoritarianism. \nHere is a breakdown of the identified books:\n\nGeorge Orwell's *1984* and Animal Farm (ცხოველთა ფერმა): The most prominent titles on the shelf are Orwell's works. *1984* is the definitive novel about a totalitarian state that controls every aspect of life, including language and history. Animal Farm is an allegory for the Russian Revolution and the rise of Stalinism. In the context of Georgia, these books are often used as a literary lens to critique government overreach, surveillance, and the influence of a powerful neighbor. Their placement front and center suggests a demand for literature that helps explain the current political moment.\n\nMikhail Bulgakov's The Master and Margarita (ოსტატი და მარგარიტა): This is a classic of Russian literature, a satirical and mystical novel that deals with the Devil's visit to Soviet Moscow. It is a profound critique of the Soviet system, bureaucracy, and the suppression of artistic freedom. Its presence here represents a connection to a shared literary heritage while also serving as a critique of authoritarian systems.\n\nRay Bradbury's Fahrenheit 451 (ფარენჰეიტი 451): This novel depicts a future society where books are banned and burned. It is a powerful story about censorship and the suppression of free thought. Given the ongoing debates in Georgia about media freedom and the \"foreign agents\" law, this book's theme of censorship is highly relevant.\n\nAntoine de Saint-Exupéry's The Little Prince (პატარა უფლისწული): A philosophical novella about a young prince who travels the universe, exploring themes of loneliness, friendship, and the absurdity of the adult world. It is a universally beloved work, often included in bookstores for its timeless appeal and its critique of conformity.. more on orwell as a counterinsurgency british spy and usage of 1984 as propaganda to hide the real world",
       "tags": [],
       "include": true,
       "section": "",
@@ -1303,5 +1303,166 @@
   "abstract_title": "Abstract of the Visual Landscape",
   "abstract": "The collected imagery presents a comprehensive portrait of a nation undergoing profound external geopolitical and cultural reconfiguration. Across the urban and political landscape, there is a pervasive integration of Western institutional symbols—ranging from NATO and EU flags to US, UK, and Israeli banners—superimposed onto public spaces, protest sites, and commercial districts. Local political dissent, expressed through Georgian-language placards, is frequently juxtaposed with English-language slogans and foreign geopolitical conflicts, indicating a strategic alignment of domestic grievances with external ideological agendas.\n\nThis visual narrative extends into the built environment, where Western corporate branding obscures historical Soviet-era monuments, and luxury retail outlets, currency exchanges, and international information centers occupy prominent street-level positions. Architectural contrasts between enduring Soviet brutalist housing blocks and newly constructed glass high-rises highlight the uneven economic pressures and external investment driving urban development. Furthermore, public art and graffiti reveal a deliberate fracturing of local identity, where classical and mutated postmodern monuments sit alongside scrawled slogans that import foreign disputes into the local sphere.\n\nCollectively, these images document a systematic process of hegemonic Western interventionism, where financial leverage, cultural commodification, and strategic political alignment are utilized to erode local sovereignty, reshape national identity, and co-opt domestic movements to serve broader external interests. The visual evidence points to a landscape where foreign influence operates not merely through diplomacy, but through the physical, cultural, and ideological restructuring of the state.",
   "section_intros": {},
-  "story": []
+  "story": [
+    {
+      "type": "heading",
+      "text": "Symbols & money"
+    },
+    {
+      "type": "text",
+      "text": "[commentary — the flags over public space]"
+    },
+    {
+      "type": "photo",
+      "id": "t48"
+    },
+    {
+      "type": "photo",
+      "id": "t54"
+    },
+    {
+      "type": "photo",
+      "id": "t56"
+    },
+    {
+      "type": "photo",
+      "id": "t57"
+    },
+    {
+      "type": "text",
+      "text": "[commentary — institutional presence]"
+    },
+    {
+      "type": "photo",
+      "id": "t59"
+    },
+    {
+      "type": "photo",
+      "id": "t67"
+    },
+    {
+      "type": "text",
+      "text": "[commentary — money & commerce]"
+    },
+    {
+      "type": "photo",
+      "id": "t41"
+    },
+    {
+      "type": "photo",
+      "id": "t44"
+    },
+    {
+      "type": "photo",
+      "id": "t45"
+    },
+    {
+      "type": "photo",
+      "id": "t47"
+    },
+    {
+      "type": "heading",
+      "text": "Built environment & dispossession"
+    },
+    {
+      "type": "text",
+      "text": "[commentary — corporate over Soviet]"
+    },
+    {
+      "type": "photo",
+      "id": "t63"
+    },
+    {
+      "type": "photo",
+      "id": "t64"
+    },
+    {
+      "type": "photo",
+      "id": "t65"
+    },
+    {
+      "type": "text",
+      "text": "[commentary — the layered past underfoot]"
+    },
+    {
+      "type": "photo",
+      "id": "t66"
+    },
+    {
+      "type": "photo",
+      "id": "t46"
+    },
+    {
+      "type": "text",
+      "text": "[commentary — old vs new, land for sale]"
+    },
+    {
+      "type": "photo",
+      "id": "t70"
+    },
+    {
+      "type": "photo",
+      "id": "t71"
+    },
+    {
+      "type": "heading",
+      "text": "Protest & the Parliament"
+    },
+    {
+      "type": "text",
+      "text": "[commentary — the placards]"
+    },
+    {
+      "type": "photo",
+      "id": "t50"
+    },
+    {
+      "type": "photo",
+      "id": "t51"
+    },
+    {
+      "type": "text",
+      "text": "[commentary — the cordon, the door]"
+    },
+    {
+      "type": "photo",
+      "id": "t52"
+    },
+    {
+      "type": "photo",
+      "id": "t53"
+    },
+    {
+      "type": "heading",
+      "text": "Imported conflicts on the walls"
+    },
+    {
+      "type": "text",
+      "text": "[commentary — 1984]"
+    },
+    {
+      "type": "photo",
+      "id": "t42"
+    },
+    {
+      "type": "photo",
+      "id": "t43"
+    },
+    {
+      "type": "text",
+      "text": "[commentary — imported slogans]"
+    },
+    {
+      "type": "photo",
+      "id": "t60"
+    },
+    {
+      "type": "photo",
+      "id": "t61"
+    },
+    {
+      "type": "photo",
+      "id": "t62"
+    }
+  ]
 }

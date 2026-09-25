@@ -47,7 +47,8 @@
     story.forEach((block) => {
       if (block.type === "text" && block.text) {
         const div = document.createElement("div");
-        div.className = "text-block";
+        const isPlaceholder = block.text.trim().startsWith("[");
+        div.className = isPlaceholder ? "text-block placeholder" : "text-block";
         String(block.text).split(/\n\s*\n/).forEach((par) => {
           const p = document.createElement("p");
           p.textContent = par.trim();
