@@ -13,6 +13,20 @@
       if (data.title) $(".title").textContent = data.title;
       if (data.subtitle) $("#subtitle").textContent = data.subtitle;
 
+      const abs = $("#abstract");
+      if (data.abstract) {
+        abs.hidden = false;
+        const h = document.createElement("div");
+        h.className = "abstract-head";
+        h.textContent = data.abstract_title || "Abstract";
+        abs.appendChild(h);
+        String(data.abstract).split(/\n\s*\n/).forEach((par) => {
+          const p = document.createElement("p");
+          p.textContent = par.trim();
+          if (p.textContent) abs.appendChild(p);
+        });
+      }
+
       const lede = $("#lede");
       if (data.lede) lede.innerHTML = "<p>" + escapeHtml(data.lede) + "</p>";
       else lede.remove();
