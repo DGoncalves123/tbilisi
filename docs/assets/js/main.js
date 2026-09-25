@@ -57,7 +57,9 @@
     const fig = document.createElement("figure");
     const aspect = p.aspect || 1.33;
 
-    if (isFirst) fig.className = "hero";
+    const explicit = p.layout && p.layout !== "auto" ? p.layout : "";
+    if (explicit) fig.className = explicit;
+    else if (isFirst) fig.className = "hero";
     else if (aspect >= 2.0) fig.className = "wide";
     else fig.className = "standard";
 
