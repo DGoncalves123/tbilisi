@@ -135,6 +135,14 @@ body {
   color: #2c2a24;
 }
 .section-intro p { margin: 0 0 1em; }
+.text-block {
+  max-width: 640px;
+  margin: 0 auto 30px;
+  font-size: 17px;
+  line-height: 1.62;
+  color: #2c2a24;
+}
+.text-block p { margin: 0 0 1em; }
 
 figure {
   margin: 0 0 44px;
