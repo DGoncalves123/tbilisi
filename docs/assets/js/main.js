@@ -55,6 +55,18 @@
         content.appendChild(head);
         content.appendChild(title);
 
+        const intro = data.section_intros && data.section_intros[sec.key];
+        if (intro) {
+          const div = document.createElement("div");
+          div.className = "section-intro";
+          String(intro).split(/\n\s*\n/).forEach((par) => {
+            const p = document.createElement("p");
+            p.textContent = par.trim();
+            if (p.textContent) div.appendChild(p);
+          });
+          content.appendChild(div);
+        }
+
         for (const p of sec.photos) {
           content.appendChild(figure(p, !heroDone));
           heroDone = true;
