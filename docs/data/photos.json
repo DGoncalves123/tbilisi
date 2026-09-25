@@ -941,7 +941,7 @@
     },
     {
       "id": "t53",
-      "caption": "A nighttime shot behind a metal fence. A police van (marked პოლიცია - Police) is parked on the street. In the foreground, there is a large pile of rubble and broken stone blocks. A police officer stands guard. This clearly depicts the aftermath of clashes or the clearing of a protest site. Some police was there but was calm, the roas in front of the building is being renovated and houses are being appropriated to sell to foreigners",
+      "caption": "A nighttime shot behind a metal fence. A police van (marked პოლიცია - Police) is parked on the street. In the foreground, there is a large pile of rubble and broken stone blocks. A police officer stands guard. This depicts road works next to the parliament on that street that is being mass tourismified. Some police was there but was calm, the roas in front of the building is being renovated and houses are being appropriated to sell to foreigners",
       "tags": [],
       "include": true,
       "section": "",
@@ -1310,7 +1310,8 @@
     },
     {
       "type": "text",
-      "text": "[commentary — the flags over public space]"
+      "text": "[commentary — the flags over public space]",
+      "id": "c1"
     },
     {
       "type": "photo",
@@ -1330,7 +1331,8 @@
     },
     {
       "type": "text",
-      "text": "[commentary — institutional presence]"
+      "text": "[commentary — institutional presence]",
+      "id": "c2"
     },
     {
       "type": "photo",
@@ -1342,7 +1344,8 @@
     },
     {
       "type": "text",
-      "text": "[commentary — money & commerce]"
+      "text": "[commentary — money & commerce]",
+      "id": "c3"
     },
     {
       "type": "photo",
@@ -1366,7 +1369,8 @@
     },
     {
       "type": "text",
-      "text": "[commentary — corporate over Soviet]"
+      "text": "[commentary — corporate over Soviet]",
+      "id": "c4"
     },
     {
       "type": "photo",
@@ -1382,7 +1386,8 @@
     },
     {
       "type": "text",
-      "text": "[commentary — the layered past underfoot]"
+      "text": "[commentary — the layered past underfoot]",
+      "id": "c5"
     },
     {
       "type": "photo",
@@ -1394,7 +1399,8 @@
     },
     {
       "type": "text",
-      "text": "[commentary — old vs new, land for sale]"
+      "text": "[commentary — old vs new, land for sale]",
+      "id": "c6"
     },
     {
       "type": "photo",
@@ -1410,7 +1416,8 @@
     },
     {
       "type": "text",
-      "text": "[commentary — the placards]"
+      "text": "[commentary — the placards]",
+      "id": "c7"
     },
     {
       "type": "photo",
@@ -1422,7 +1429,8 @@
     },
     {
       "type": "text",
-      "text": "[commentary — the cordon, the door]"
+      "text": "[commentary — the cordon, the door]",
+      "id": "c8"
     },
     {
       "type": "photo",
@@ -1438,7 +1446,8 @@
     },
     {
       "type": "text",
-      "text": "[commentary — 1984]"
+      "text": "[commentary — 1984]",
+      "id": "c9"
     },
     {
       "type": "photo",
@@ -1450,7 +1459,8 @@
     },
     {
       "type": "text",
-      "text": "[commentary — imported slogans]"
+      "text": "[commentary — imported slogans]",
+      "id": "c10"
     },
     {
       "type": "photo",
@@ -1464,5 +1474,6 @@
       "type": "photo",
       "id": "t62"
     }
-  ]
+  ],
+  "lede": ""
 }
