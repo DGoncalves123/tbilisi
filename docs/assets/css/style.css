@@ -62,27 +62,6 @@ body {
   display: inline-block;
 }
 
-/* ---------- Abstract ---------- */
-.abstract {
-  max-width: 660px;
-  margin: 8px auto 12px;
-  padding: 20px 24px 8px;
-  border-top: 2px solid var(--ink);
-  border-bottom: 1px solid var(--rule);
-  font-size: 16px;
-  line-height: 1.62;
-  color: #33302a;
-}
-.abstract-head {
-  font-family: var(--sans);
-  font-size: 12px;
-  letter-spacing: .22em;
-  text-transform: uppercase;
-  color: var(--accent);
-  margin-bottom: 14px;
-}
-.abstract p { margin: 0 0 1em; }
-
 /* ---------- Lede ---------- */
 .lede {
   max-width: 640px;
