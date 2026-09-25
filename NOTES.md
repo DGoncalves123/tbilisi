@@ -1,6 +1,6 @@
 # Field Notes — Tbilisi, September 2026
 
-> Draft field notes for the photoreport. NOT part of the published site (`/docs`),
+> Draft field notes for the photo report. NOT part of the published site (`/docs`),
 > but it will be visible in the public repo unless removed before push.
 > Final framing, tone and wording are still to be decided.
 

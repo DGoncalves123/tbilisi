@@ -7,7 +7,7 @@ A magazine-style photo report about Tbilisi, Georgia, built as a static site and
 After enabling GitHub Pages on the repo (see below), the site is served at:
 
 ```
-https://DGoncalves123.github.io/tbilisi-2026/
+https://DGoncalves123.github.io/tbilisi/
 ```
 
 ## Structure
@@ -36,20 +36,20 @@ cd docs && python3 -m http.server 8080
 
 ## Deploy with GitHub Pages (`/docs`)
 
-1. Create a new repo on GitHub (e.g. `tbilisi-2026`) — **do not** add a README or `.gitignore` if you already have them locally.
+1. Create a new repo on GitHub (e.g. `tbilisi`) — **do not** add a README or `.gitignore` if you already have them locally.
 2. Push this folder as the repo root:
 
    ```bash
    git init
    git add .
-   git commit -m "Tbilisi photoreport"
+   git commit -m "Tbilisi photo report"
    git branch -M main
-   git remote add origin https://github.com/DGoncalves123/tbilisi-2026.git
+   git remote add origin https://github.com/DGoncalves123/tbilisi.git
    git push -u origin main
    ```
 
 3. On GitHub: **Settings → Pages → Source** → choose **"Deploy from a branch"** → branch `main` → folder **`/docs`** → Save.
-4. The site goes live at `https://DGoncalves123.github.io/tbilisi-2026/` (allow a minute or two).
+4. The site goes live at `https://DGoncalves123.github.io/tbilisi/` (allow a minute or two).
 
 ## Editing the story
 
