@@ -35,6 +35,17 @@
       } else {
         renderSections(photos, data.section_intros, content);
       }
+
+      if (data.outro) {
+        const div = document.createElement("div");
+        div.className = "text-block outro";
+        String(data.outro).split(/\n\s*\n/).forEach((par) => {
+          const p = document.createElement("p");
+          p.textContent = par.trim();
+          if (p.textContent) div.appendChild(p);
+        });
+        content.appendChild(div);
+      }
     })
     .catch((e) => {
       $("#content").innerHTML =

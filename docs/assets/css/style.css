@@ -123,6 +123,12 @@ body {
 }
 .text-block p { margin: 0 0 1em; }
 .text-block.placeholder p { color: var(--accent); font-style: italic; }
+.text-block.outro {
+  border-top: 1px solid var(--rule);
+  padding-top: 26px;
+  margin-top: 40px;
+  font-style: italic;
+}
 
 figure {
   margin: 0 0 44px;
